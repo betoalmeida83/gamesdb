@@ -1,7 +1,6 @@
 package com.gamesdb.gamesdb.controllers;
 
 import com.gamesdb.gamesdb.dto.GameMinDTO;
-import com.gamesdb.gamesdb.entities.Game;
 import com.gamesdb.gamesdb.services.GameService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
