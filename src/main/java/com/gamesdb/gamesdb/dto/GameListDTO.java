@@ -22,4 +22,5 @@ public class GameListDTO {
     public String getName() {
         return name;
     }
+
 }
